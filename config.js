@@ -2,9 +2,9 @@
    Edit the values below, then commit this file to your repo.
    No build step needed — this is plain JavaScript read directly by the browser. */
 window.LEMBAR_CONFIG = {
-  // Email that receives "founderku@gmail.com" submissions from visitors (mailto link).
+  // Email that receives "winditrianti389@gmail.com" submissions from visitors (mailto link).
   // Change this to your own email address.
-  adminEmail: "founderku@gmail.com",
+  adminEmail: "winditrianti389@gmail.com",
 
   // Your GitHub repository, used only by admin.html to save changes.
   // Example: if your repo is https://github.com/windi-tri/lembar
