@@ -2,16 +2,16 @@
    Edit the values below, then commit this file to your repo.
    No build step needed — this is plain JavaScript read directly by the browser. */
 window.LEMBAR_CONFIG = {
-  // Email that receives "Kirim Karya" submissions from visitors (mailto link).
+  // Email that receives "founderku@gmail.com" submissions from visitors (mailto link).
   // Change this to your own email address.
-  adminEmail: "ganti-dengan-emailmu@gmail.com",
+  adminEmail: "founderku@gmail.com",
 
   // Your GitHub repository, used only by admin.html to save changes.
   // Example: if your repo is https://github.com/windi-tri/lembar
   // then owner = "windi-tri" and repo = "lembar".
   github: {
-    owner: "ganti-dengan-username-github",
-    repo: "ganti-dengan-nama-repo",
+    owner: "founderku",
+    repo: "Lembar",
     branch: "main"
   },
 
