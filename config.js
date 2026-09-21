@@ -18,5 +18,5 @@ window.LEMBAR_CONFIG = {
   // SHA-256 hash of your admin password (NOT the password itself).
   // Open admin/generate-password-hash.html, type your password, then paste
   // the hash it shows here. Empty = admin login is not set up yet.
-  adminPasswordHash: ""
+  adminPasswordHash: "d3e490d909eedcf5049fc8ea9adb29883f79cfeac9797ebc0c44cf92be3e2178"
 };
