@@ -1,0 +1,20 @@
+[
+  {
+    "id": "contoh-puisi-1",
+    "judul": "[Contoh] Senja yang Tak Pernah Pulang",
+    "jenis": "puisi",
+    "isi": "Ini adalah karya contoh bawaan Lembar.\n\nHapus atau ganti lewat halaman admin (admin/index.html) setelah kamu mulai menambahkan karya asli — supaya pengunjung situsmu tidak melihat data contoh ini.\n\nSenja selalu punya cara berbeda untuk berhenti sejenak,\ndari balik jendela kamar yang setia menemani.",
+    "penulis": "Contoh Penulis",
+    "penulisSlug": "contoh-penulis",
+    "createdAt": "2026-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "contoh-esai-1",
+    "judul": "[Contoh] Menjadi Versi Terbaik dari Diri Sendiri",
+    "jenis": "esai",
+    "isi": "Ini adalah karya contoh bawaan Lembar.\n\nHapus atau ganti lewat halaman admin (admin/index.html) setelah kamu mulai menambahkan karya asli — supaya pengunjung situsmu tidak melihat data contoh ini.\n\nSetiap orang punya proses masing-masing untuk bertumbuh, dan itu tidak perlu dibandingkan dengan proses orang lain.",
+    "penulis": "Contoh Penulis",
+    "penulisSlug": "contoh-penulis",
+    "createdAt": "2026-01-08T09:00:00.000Z"
+  }
+]
